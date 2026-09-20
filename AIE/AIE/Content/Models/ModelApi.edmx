@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="AIEModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="APICountDown">
+          <Key>
+            <PropertyRef Name="CountDownEndDate" />
+          </Key>
+          <Property Name="CountDownEndDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'AIE.dbo.qryApiContactUs' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="qryApiContactUs">
+          <Key>
+            <PropertyRef Name="ContactUsId" />
+          </Key>
+          <Property Name="ContactUsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="FullName" Type="varchar" MaxLength="150" />
+          <Property Name="Email" Type="varchar" MaxLength="80" />
+          <Property Name="MobileNo" Type="varchar" MaxLength="20" />
+          <Property Name="Message" Type="nvarchar" MaxLength="450" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'AIE.dbo.qryApiUserLogin' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="qryApiUserLogin">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="Password" Type="nvarchar" MaxLength="150" />
+          <Property Name="Username" Type="varchar" MaxLength="1" Nullable="false" />
+          <Property Name="FullName" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'AIE.dbo.qryApiUsers' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="qryApiUsers">
+          <Key>
+            <PropertyRef Name="ApiUserID" />
+          </Key>
+          <Property Name="ApiUserID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserName" Type="nvarchar" MaxLength="250" />
+          <Property Name="UserPass" Type="nvarchar" MaxLength="4000" />
+          <Property Name="PasswordExpired" Type="datetime" />
+        </EntityType>
+        <EntityContainer Name="AIEModelStoreContainer">
+          <EntitySet Name="APICountDown" EntityType="Self.APICountDown" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="qryApiContactUs" EntityType="Self.qryApiContactUs" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [qryApiContactUs].[ContactUsId] AS [ContactUsId], 
+    [qryApiContactUs].[FullName] AS [FullName], 
+    [qryApiContactUs].[Email] AS [Email], 
+    [qryApiContactUs].[MobileNo] AS [MobileNo], 
+    [qryApiContactUs].[Message] AS [Message]
+    FROM [dbo].[qryApiContactUs] AS [qryApiContactUs]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="qryApiUserLogin" EntityType="Self.qryApiUserLogin" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [qryApiUserLogin].[ID] AS [ID], 
+    [qryApiUserLogin].[Email] AS [Email], 
+    [qryApiUserLogin].[Password] AS [Password], 
+    [qryApiUserLogin].[Username] AS [Username], 
+    [qryApiUserLogin].[FullName] AS [FullName]
+    FROM [dbo].[qryApiUserLogin] AS [qryApiUserLogin]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="qryApiUsers" EntityType="Self.qryApiUsers" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [qryApiUsers].[ApiUserID] AS [ApiUserID], 
+    [qryApiUsers].[UserName] AS [UserName], 
+    [qryApiUsers].[UserPass] AS [UserPass], 
+    [qryApiUsers].[PasswordExpired] AS [PasswordExpired]
+    FROM [dbo].[qryApiUsers] AS [qryApiUsers]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="AIEModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="qryApiContactU">
+          <Key>
+            <PropertyRef Name="ContactUsId" />
+          </Key>
+          <Property Name="ContactUsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="FullName" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="80" FixedLength="false" Unicode="false" />
+          <Property Name="MobileNo" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="Message" Type="String" MaxLength="450" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="EntitiesAPI" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="qryApiContactUs" EntityType="Self.qryApiContactU" />
+          <EntitySet Name="qryApiUsers" EntityType="AIEModel.qryApiUser" />
+          <EntitySet Name="qryApiUserLogins" EntityType="AIEModel.qryApiUserLogin" />
+          <EntitySet Name="APICountDowns" EntityType="AIEModel.APICountDown" />
+        </EntityContainer>
+        <EntityType Name="qryApiUser">
+          <Key>
+            <PropertyRef Name="ApiUserID" />
+          </Key>
+          <Property Name="ApiUserID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="String" MaxLength="250" FixedLength="false" Unicode="true" />
+          <Property Name="UserPass" Type="String" MaxLength="4000" FixedLength="false" Unicode="true" />
+          <Property Name="PasswordExpired" Type="DateTime" Precision="3" />
+        </EntityType>
+        <EntityType Name="qryApiUserLogin">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Password" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="Username" Type="String" Nullable="false" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="FullName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="APICountDown">
+          <Key>
+            <PropertyRef Name="CountDownEndDate" />
+          </Key>
+          <Property Name="CountDownEndDate" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="AIEModelStoreContainer" CdmEntityContainer="EntitiesAPI">
+          <EntitySetMapping Name="qryApiContactUs">
+            <EntityTypeMapping TypeName="AIEModel.qryApiContactU">
+              <MappingFragment StoreEntitySet="qryApiContactUs">
+                <ScalarProperty Name="ContactUsId" ColumnName="ContactUsId" />
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+                <ScalarProperty Name="Message" ColumnName="Message" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="qryApiUsers">
+            <EntityTypeMapping TypeName="AIEModel.qryApiUser">
+              <MappingFragment StoreEntitySet="qryApiUsers">
+                <ScalarProperty Name="PasswordExpired" ColumnName="PasswordExpired" />
+                <ScalarProperty Name="UserPass" ColumnName="UserPass" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="ApiUserID" ColumnName="ApiUserID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="qryApiUserLogins">
+            <EntityTypeMapping TypeName="AIEModel.qryApiUserLogin">
+              <MappingFragment StoreEntitySet="qryApiUserLogin">
+                <ScalarProperty Name="FullName" ColumnName="FullName" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="APICountDowns">
+            <EntityTypeMapping TypeName="AIEModel.APICountDown">
+              <MappingFragment StoreEntitySet="APICountDown">
+                <ScalarProperty Name="CountDownEndDate" ColumnName="CountDownEndDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

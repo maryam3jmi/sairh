@@ -1,0 +1,135 @@
+﻿using DBFunction;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace AIE
+{
+    public partial class PublicAr : System.Web.UI.MasterPage
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            if (!IsPostBack)
+            {
+                if (Ado.UserDetails != null)
+                {
+                    liLogin.Visible = false;
+                    liLogOut.Visible = true;
+                    liProfile.Visible = true;
+                    if (Ado.UserDetails.UserLevel=="Admin")
+                    {
+                        liDashboard.Visible = true;
+                    }
+                    else
+                    {
+                        liDashboard.Visible = false;
+                    }
+                    
+                }
+                else
+                {
+                    liLogin.Visible = true;
+                    liLogOut.Visible = false;
+                    liDashboard.Visible = false;
+                    liProfile.Visible = false;
+                }
+
+                string currentPage = Request.Url.AbsolutePath.ToLower();
+
+                if (currentPage.Contains("publication"))
+                    linkPublicationAr.Attributes["class"] += " active";
+                else if (currentPage.Contains("schedules"))
+                    linkSchedulesAr.Attributes["class"] += " active";
+                else if (currentPage.Contains("ceremony"))
+                    linkCeremonyAr.Attributes["class"] += " active";
+                else if (currentPage.Contains("judges"))
+                    linkJudgesAr.Attributes["class"] += " active";
+                else if (currentPage.Contains("sponsors"))
+                    linkSponsorsAr.Attributes["class"] += " active";
+                else if (currentPage.Contains("contactus"))
+                    linkContactUsAr.Attributes["class"] += " active";
+                else
+                    linkHomeAr.Attributes["class"] += " active"; 
+            }
+        }
+        private void GetAbsolutePath()
+        {
+            string absolutepath = HttpContext.Current.Request.Url.AbsolutePath;
+            Page.Header.Title = "";
+
+            if (absolutepath.Contains("default"))
+            {
+
+                Response.Redirect("~/");
+            }
+            else if (absolutepath.Contains("Sponsors"))
+            {
+                Response.Redirect("~/Sponsors");
+            }
+
+            else if (absolutepath.Contains("Judges"))
+            {
+                Response.Redirect("~/Judges");
+            }
+
+            else if (absolutepath.Contains("Winners"))
+            {
+                Response.Redirect("~/Winners");
+            }
+            else if (absolutepath.Contains("Schedules"))
+            {
+                Response.Redirect("~/Schedules");
+            }
+            else if (absolutepath.Contains("ContactUs"))
+            {
+                Response.Redirect("~/ContactUs");
+            }
+            else if (absolutepath.Contains("Login"))
+            {
+                Response.Redirect("~/Login");
+            }
+            else if (absolutepath.Contains("Register"))
+            {
+                Response.Redirect("~/Register");
+            }
+            else if (absolutepath.Contains("Ceremony"))
+            {
+                Response.Redirect("~/Ceremony");
+            }
+            else if (absolutepath.Contains("Publication"))
+            {
+                Response.Redirect("~/Publication");
+            }
+            else if (absolutepath.Contains("Profile"))
+            {
+                Response.Redirect("~/Profile");
+            }
+            else if (absolutepath.Contains("Dashboard"))
+            {
+                Response.Redirect("~/Dashboard");
+            }
+
+
+        }
+        protected void BtnToEn_Click(object sender, EventArgs e)
+        {
+            GetAbsolutePath();
+        }
+
+        protected void BtnSignOut_Click(object sender, EventArgs e)
+        {
+            Session.Clear();
+            Session.Abandon();
+            FormsAuthentication.SignOut();
+            Response.Redirect("~/Ar_Sa");
+        }
+        protected void BtnProfile_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

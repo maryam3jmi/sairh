@@ -1,0 +1,348 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Public.master.cs" Inherits="AIE.Public" %>
+
+
+<!DOCTYPE html>
+<html lang="zxx">
+<head runat="server">
+    <meta charset="utf-8" />
+    <title>Saudi First AI Summit in Radiology and Health InnovationAnnual Innovation Event</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="Saudi First AI Summit in Radiology and Health Innovation" name="description" />
+    <meta content="" name="keywords" />
+    <meta content="" name="author" />
+
+    <link id="bootstrap" href="Content/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link id="bootstrapgrid" href="Content/css/bootstrap-grid.min.css" rel="stylesheet" type="text/css" />
+    <link id="bootstrapreboot" href="Content/css/bootstrap-reboot.min.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/animate.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/owl.carousel.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/owl.theme.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/owl.transitions.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/magnific-popup.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/jquery.countdown.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/font/font.css" rel="stylesheet" />
+    <!-- color scheme -->
+    <link id="colors" href="Content/css/colors/scheme-01.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/coloring.css" rel="stylesheet" type="text/css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" type="text/css" />
+    <link href="Content/css/style.css" rel="stylesheet" type="text/css" />
+
+    <link href="Content\images\logo.jpg" rel="icon" />
+   <style>
+    /* 1. Flexbox & Alignment Utilities */
+    .de-flex-col {
+        display: flex;
+        align-items: center; /* Ensures vertical alignment of child elements */
+    }
+
+    #logo {
+        display: flex;
+        align-items: center; /* Ensures the logo is vertically aligned */
+    }
+
+    #logo img {
+        max-height: 100%; /* Prevents image overflow */
+        height: auto; /* Ensures responsiveness */
+    }
+
+    /* 2. Hero Background Image Styling (Main Banner) */
+    .bg-image {
+        height: 200px; /* Height adjusts based on content */
+        min-height: 50vh; /* Ensures a minimum height of 50% screen height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top: 20%; /* Space at the top */
+        padding-bottom: 20%; /* Space at the bottom */
+        background-size: cover; /* Crops to fill container */
+        background-position: center; /* Centers image */
+        background-repeat: no-repeat; /* Prevents tiling */
+    }
+
+    /* 3. Small Background Image Styling (Sub-pages) */
+    .bg-image-small {
+        height: 200px;
+        min-height: 40vh; /* Minimum height of 40% screen height */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    /* 4. Navigation & Links */
+    .active {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+    /* 5. Topbar & Menu Layout */
+    #topbar {
+        padding: 4px 0 !important;
+    }
+
+    .menu-bar-container {
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        width: 100%;
+        padding: 4px 0 !important;
+        direction: rtl;
+    }
+
+    .menu-logo-box {
+        flex: 0 0 220px;
+        display: flex;
+        align-items: center;
+    }
+
+    .menu-logo-box img {
+        height: 50px !important;
+        width: auto;
+    }
+
+    .menu-spacer {
+        flex: 0 0 220px;
+    }
+
+    ul#mainmenu.ar-menu-list {
+        flex: 1;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        gap: 22px !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        list-style: none !important;
+    }
+
+    ul#mainmenu.ar-menu-list li {
+        white-space: nowrap !important;
+        margin: 0 !important;
+    }
+
+    ul#mainmenu.ar-menu-list li a {
+        font-size: 0.95rem;
+        font-weight: 600;
+        text-decoration: none;
+        padding: 6px 2px;
+        position: relative;
+        display: inline-block;
+        color: #333333;
+    }
+
+    ul#mainmenu.ar-menu-list li a::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: 0;
+        right: 0;
+        background-color: #000000;
+        transition: width 0.3s ease-in-out;
+    }
+
+    ul#mainmenu.ar-menu-list li a:hover::after,
+    ul#mainmenu.ar-menu-list li a.active::after {
+        width: 100%;
+    }
+
+    /* 6. Media Queries for Responsiveness */
+    @media (min-width: 768px) and (max-width: 1024px) {
+        #logo {
+            margin: 0 auto;
+            padding: 0;
+        }
+    }
+
+    @media (max-width: 992px) {
+        .menu-bar-container {
+            flex-wrap: wrap;
+        }
+        .menu-spacer {
+            display: none;
+        }
+    }
+
+    @media (max-width: 768px) {
+        ul#mainmenu li a.active {
+            text-decoration: underline !important;
+            font-weight: bold;
+        }
+    }
+</style>
+    
+   
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="topbar" class="text-white bg-color">
+                <div class="container">
+
+
+                    <div class="topbar-right">
+                        <span class="topbar-widget" runat="server" id="liProfile">
+                            <asp:LinkButton ID="BtnProfile" runat="server" PostBackUrl="~/Profile.aspx" CssClass="text-white"><i class="fa fa-user-circle-o"></i>Profile</asp:LinkButton>
+                        </span>
+                        <span class="topbar-widget" runat="server" id="liDashboard">
+                            <asp:LinkButton ID="BtnDashboard" runat="server" PostBackUrl="~/Dashboard.aspx" CssClass="text-white"><i class="fa fa-dashboard"></i>Dashboard</asp:LinkButton>
+                        </span>
+                        <span class="topbar-widget" runat="server" id="liLogOut">
+                            <asp:LinkButton ID="BtnSignOut" runat="server" OnClick="BtnSignOut_Click" CssClass="text-white"><i class="fa fa-key"></i>Sign out</asp:LinkButton>
+                        </span>
+                        <span class="topbar-widget" runat="server" id="liLogin">
+                            <a href="Login"><i class=" icon_lock-open"></i>Sign in</a>
+                        </span>
+                        <span class="topbar-widget">
+                            <asp:LinkButton ID="BtnToAr" runat="server" CssClass="text-white droidkufiregular" OnClick="BtnToAr_Click"><i class="fa fa-language"></i> العربية</asp:LinkButton>
+                        </span>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <!-- header begin -->
+            <header class="bg-white scroll-light">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="de-flex sm-pt10">
+                                <div class="de-flex-col">
+                                    <!-- logo begin -->
+                                   <div class="nav-wrapper">
+    <!-- 1. Logo Section -->
+    <div id="logo">
+        <a href="~/" runat="server">
+            <img alt="Logo" class="logo" src="Content/images/background/SAIRH_logo_transparent.svg" style="width: 300px; height: 100px;" />
+        </a>
+    </div>
+
+    <!-- 2. Centered Menu -->
+    <ul id="mainmenu">
+        <li class="a-underline form-underline">
+            <a href="~/" runat="server" id="linkHome" class="text-dark">Home<span></span></a>
+        </li>
+        <li>
+            <a href="Publication" runat="server" id="linkPublication" class="text-dark">Tracks<span></span></a>
+        </li>
+        <li>
+            <a href="Schedules" runat="server" id="linkSchedules" class="text-dark">Exhibition<span></span></a>
+        </li>
+        <li>
+            <a href="Ceremony" runat="server" id="linkCeremony" class="text-dark">Conference Program<span></span></a>
+        </li>
+        <li>
+            <a href="Judges" runat="server" id="linkJudges" class="text-dark">Speakers<span></span></a>
+        </li>
+        <li>
+            <a href="Sponsors" runat="server" id="linkSponsors" class="text-dark">Sponsors<span></span></a>
+        </li>
+        <li>
+            <a href="ContactUs" runat="server" id="linkContactUs" class="text-dark">Contact Us<span></span></a>
+        </li>
+    </ul>
+
+    <!-- 3. Right Balancer (Equal width to logo) -->
+    <div class="nav-spacer"></div>
+</div>
+                                <div class="de-flex-col">
+                                    <span id="menu-btn"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </header>
+
+            <div class="no-bottom no-top" id="content">
+                <div id="top"></div>
+                <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </div>
+            <!-- content close -->
+
+            <a href="#" id="back-to-top"></a>
+           <%-- <div class="spacer-10"></div>--%>
+
+            <!-- footer begin -->
+
+            <footer>
+     <div class="row">
+         <div class="col-md-12">
+             <div class="de-flex ml-4">
+                 <div class="de-flex-col">
+                     <div class="social-icons">
+                         <a href="mailto:iie@iau.edu.sa"><i class="fa fa-envelope-o fa-lg"></i> <span>iie@iau.edu.sa</span></a>
+                         <a href="https://twitter.com/IAU_VPSRI" target="_blank"><i class="fa-brands fa-x-twitter fa-lg"></i> <span>IAU_VPSRI</span></a>
+                         <a href="https://apps.apple.com/us/app/annual-innovation-event/id6475714056" target="_blank"><i class="fa-brands fa-apple fa-lg"></i> <span>SRAS-IAU</span></a>
+                         <a href="https://play.google.com/store/apps/details?id=sa.edu.iau.annualinnovationevent" target="_blank"><i class="fa-brands fa-android fa-lg"></i> <span class="app-text">SRAS-IAU</span></a>
+                     </div>
+                 </div>
+                 <div class="de-flex-col mr-4">
+                     &copy; AIE <%=DateTime.Now.Year.ToString() %> 
+                 </div>
+             </div>
+         </div>
+     </div>
+ </footer>
+
+
+            <!-- footer close -->
+
+            <div id="preloader">
+                <div class="spinner">
+                    <div class="bounce1"></div>
+                    <div class="bounce2"></div>
+                    <div class="bounce3"></div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Javascript Files
+    ================================================== -->
+        <script src="Content/js/jquery.min.js"></script>
+        <script src="Content/js/popper.min.js"></script>
+        <script src="Content/js/bootstrap.min.js"></script>
+        <script src="Content/js/wow.min.js"></script>
+        <script src="Content/js/jquery.isotope.min.js"></script>
+        <script src="Content/js/easing.js"></script>
+        <script src="Content/js/owl.carousel.js"></script>
+        <script src="Content/js/validation.js"></script>
+        <script src="Content/js/jquery.magnific-popup.min.js"></script>
+        <script src="Content/js/enquire.min.js"></script>
+        <script src="Content/js/jquery.stellar.min.js"></script>
+        <script src="Content/js/jquery.plugin.js"></script>
+        <script src="Content/js/typed.js"></script>
+        <script src="Content/js/jquery.countTo.js"></script>
+        <script src="Content/js/jquery.countdown.js"></script>
+        <script src="Content/js/typed.js"></script>
+        <script src="Content/js/designesia.js"></script>
+
+        <script>
+            $(function () {
+                // jquery typed plugin
+                $(".typed").typed({
+                    stringsElement: $('.typed-strings'),
+                    typeSpeed: 100,
+                    backDelay: 1500,
+                    loop: true,
+                    contentType: 'html', // or text
+                    // defaults to false for infinite loop
+                    loopCount: false,
+                    callback: function () { null; },
+                    resetCallback: function () { newTyped(); }
+                });
+            });
+        </script>
+
+
+    </form>
+
+</body>
+</html>
