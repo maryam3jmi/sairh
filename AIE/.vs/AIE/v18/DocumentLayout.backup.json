@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\marya\\Desktop\\AIE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\scripts\\jquery-3.3.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\scripts\\jquery-3.3.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\scripts\\jquery-3.3.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\scripts\\jquery-3.3.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -19,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\ar_sa\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\ar_sa\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -37,18 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\scripts\\jquery-3.3.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\scripts\\jquery-3.3.1.slim.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\scripts\\jquery-3.3.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\scripts\\jquery-3.3.1.slim.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\scripts\\jquery-3.3.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,80 +170,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Default.aspx",
-              "RelativeDocumentMoniker": "AIE\\Ar_Sa\\Default.aspx",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Default.aspx",
-              "RelativeToolTip": "AIE\\Ar_Sa\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-09-15T08:50:36.497Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Login.aspx",
-              "RelativeDocumentMoniker": "AIE\\Login.aspx",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Login.aspx",
-              "RelativeToolTip": "AIE\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-09-15T18:56:35.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Login.aspx",
-              "RelativeDocumentMoniker": "AIE\\Ar_Sa\\Login.aspx",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Login.aspx",
-              "RelativeToolTip": "AIE\\Ar_Sa\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-09-15T18:56:18.06Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Default.aspx",
-              "RelativeDocumentMoniker": "AIE\\Default.aspx",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Default.aspx",
-              "RelativeToolTip": "AIE\\Default.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-09-15T09:01:33.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "jquery.min.js",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\js\\jquery.min.js",
               "RelativeDocumentMoniker": "AIE\\Content\\js\\jquery.min.js",
               "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\js\\jquery.min.js",
               "RelativeToolTip": "AIE\\Content\\js\\jquery.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACYVQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACQ9AAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-09-15T18:56:16.332Z"
+              "WhenOpened": "2026-09-15T18:56:16.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css",
               "RelativeDocumentMoniker": "AIE\\Content\\css\\style.css",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css*",
-              "RelativeToolTip": "AIE\\Content\\css\\style.css*",
-              "ViewState": "AgIAAC0jAAAAAAAAAAAYwE4jAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css",
+              "RelativeToolTip": "AIE\\Content\\css\\style.css",
+              "ViewState": "AgIAACwjAAAAAAAAAAAtwDgjAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-09-07T09:29:07.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Public.Master",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Public.Master",
               "RelativeDocumentMoniker": "AIE\\Public.Master",
@@ -256,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PublicAr.Master",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\PublicAr.Master",
               "RelativeDocumentMoniker": "AIE\\Ar_Sa\\PublicAr.Master",
@@ -269,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ViewSwitcher.ascx",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\ViewSwitcher.ascx",
               "RelativeDocumentMoniker": "AIE\\ViewSwitcher.ascx",
@@ -281,39 +234,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "jquery.magnific-popup.min.js",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\js\\jquery.magnific-popup.min.js",
               "RelativeDocumentMoniker": "AIE\\Content\\js\\jquery.magnific-popup.min.js",
               "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\js\\jquery.magnific-popup.min.js",
               "RelativeToolTip": "AIE\\Content\\js\\jquery.magnific-popup.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADjLgAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABgJAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-09-15T18:56:12.898Z"
+              "WhenOpened": "2026-09-15T18:56:12.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "jquery-3.3.1.slim.min.js",
-              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.min.js",
-              "RelativeDocumentMoniker": "AIE\\Scripts\\jquery-3.3.1.slim.min.js",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.min.js",
-              "RelativeToolTip": "AIE\\Scripts\\jquery-3.3.1.slim.min.js",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAZWQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-09-15T18:56:07.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "jquery-3.3.1.slim.js",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.js",
               "RelativeDocumentMoniker": "AIE\\Scripts\\jquery-3.3.1.slim.js",
               "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.js",
               "RelativeToolTip": "AIE\\Scripts\\jquery-3.3.1.slim.js",
-              "ViewState": "AgIAAIUKAAAAAAAAAAAUwJUKAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEYYAAAAAAAAAAAuwKAZAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-09-15T18:56:01.05Z"
+              "WhenOpened": "2026-09-15T18:56:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Default.aspx",
+              "RelativeDocumentMoniker": "AIE\\Default.aspx",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Default.aspx",
+              "RelativeToolTip": "AIE\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-15T09:01:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jquery-3.3.1.slim.min.js",
+              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.min.js",
+              "RelativeDocumentMoniker": "AIE\\Scripts\\jquery-3.3.1.slim.min.js",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Scripts\\jquery-3.3.1.slim.min.js",
+              "RelativeToolTip": "AIE\\Scripts\\jquery-3.3.1.slim.min.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-15T18:56:07.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Login.aspx",
+              "RelativeDocumentMoniker": "AIE\\Ar_Sa\\Login.aspx",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Login.aspx",
+              "RelativeToolTip": "AIE\\Ar_Sa\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-15T18:56:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Login.aspx",
+              "RelativeDocumentMoniker": "AIE\\Login.aspx",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Login.aspx",
+              "RelativeToolTip": "AIE\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-15T18:56:35.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Default.aspx",
+              "RelativeDocumentMoniker": "AIE\\Ar_Sa\\Default.aspx",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\Default.aspx",
+              "RelativeToolTip": "AIE\\Ar_Sa\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-09-15T08:50:36.497Z"
             },
             {
               "$type": "Document",

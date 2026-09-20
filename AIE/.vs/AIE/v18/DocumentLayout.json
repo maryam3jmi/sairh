@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\marya\\Desktop\\AIE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|c:\\users\\marya\\desktop\\aie\\aie\\ar_sa\\publicar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\ar_sa\\publicar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\public.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\public.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|c:\\users\\marya\\desktop\\aie\\aie\\ar_sa\\publicar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\ar_sa\\publicar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|solutionrelative:aie\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AF4ED68-88E4-472F-8ACB-F26721976253}|AIE\\AIE.csproj|C:\\Users\\marya\\Desktop\\AIE\\aie\\content\\js\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -162,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -206,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Default.aspx",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Default.aspx",
               "RelativeDocumentMoniker": "AIE\\Default.aspx",
@@ -230,16 +230,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "style.css",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css",
               "RelativeDocumentMoniker": "AIE\\Content\\css\\style.css",
-              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css*",
-              "RelativeToolTip": "AIE\\Content\\css\\style.css*",
-              "ViewState": "AgIAADAjAAAAAAAAAAAYwFEjAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Content\\css\\style.css",
+              "RelativeToolTip": "AIE\\Content\\css\\style.css",
+              "ViewState": "AgIAAM0sAAAAAAAAAAAYwNssAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-07T09:29:07.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T09:29:07.906Z"
             },
             {
               "$type": "Document",
@@ -251,12 +250,11 @@
               "RelativeToolTip": "AIE\\Public.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-09-15T18:56:40.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T18:56:40.15Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PublicAr.Master",
               "DocumentMoniker": "C:\\Users\\marya\\Desktop\\AIE\\AIE\\Ar_Sa\\PublicAr.Master",
               "RelativeDocumentMoniker": "AIE\\Ar_Sa\\PublicAr.Master",

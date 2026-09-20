@@ -8992,54 +8992,43 @@ i.btn-action-hide {
 	visibility: hidden;
 }
 #back-to-top {
-	position: fixed !important;
-	bottom: -40px !important;
-	right: 20px !important;
-	z-index: 1020 !important;
-	width: 45px !important;
-	height: 45px !important;
-	/* Layout Centering */
-	display: flex !important;
-	align-items: center !important;
-	justify-content: center !important;
-	cursor: pointer !important;
-	border-radius: 50% !important;
-	text-decoration: none !important;
-	transition: all 0.3s ease-in-out !important;
-	outline: none !important;
-	opacity: 0 !important;
-	/* Solid White Background & Border */
-	background-color: #ffffff !important;
-	background: #ffffff !important;
-	border: 1px solid #ffffff !important;
-	box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25) !important;
-	padding: 0 !important;
+	position: fixed;
+	bottom: -40px;
+	right: 20px;
+	z-index: 1020;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 30px;
+	cursor: pointer;
+	border: 0;
+	border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	text-decoration: none;
+	transition: opacity 0.2s ease-out;
+	outline: none;
+	opacity: 0;
+	border:solid 1px #bbb;
+	padding-top: 4px;
+}
+#back-to-top:hover {
+}
+#back-to-top.show {
+	bottom: 20px;
+	opacity: 1;
+}
+#back-to-top.hide {
+	bottom: -40px;
+}
+#back-to-top:before {
+	font-family: "FontAwesome";
+	font-size: 18px;
+	content: "\f106";
+	color: #222;
+	position: relative;
 }
 
-	#back-to-top:hover {
-		background-color: #f0f0f0 !important;
-		transform: translateY(-3px) !important;
-	}
-
-	#back-to-top.show {
-		bottom: 20px !important;
-		opacity: 1 !important;
-	}
-
-	#back-to-top.hide {
-		bottom: -40px !important;
-	}
-
-	/* Icon Styling */
-	#back-to-top:before {
-		font-family: "FontAwesome" !important;
-		font-size: 20px !important;
-		content: "\f106" !important; /* FontAwesome chevron-up icon */
-		color: #000000 !important; /* Solid black chevron */
-		line-height: 1 !important;
-		position: static !important;
-		display: block !important;
-	}
 /* mouse scroll icon begin */
 
 .mouse {
