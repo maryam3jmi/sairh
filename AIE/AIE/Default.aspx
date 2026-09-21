@@ -20,40 +20,6 @@
         .hero-meta-item i {
             color: #38bdf8;
         }
-        .hub-track-card {
-            background: rgba(14, 28, 66, 0.4);
-            border: 1px solid rgba(56, 189, 248, 0.16);
-            border-radius: 14px;
-            padding: 20px;
-            transition: all 0.3s ease;
-            text-align: left;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        }
-        .hub-track-card:hover {
-            border-color: #38bdf8;
-            background: rgba(14, 28, 66, 0.65);
-            transform: translateY(-2px);
-        }
-        .hub-track-pill {
-            font-size: 0.8rem;
-            font-weight: 700;
-            color: #38bdf8;
-            background: rgba(56, 189, 248, 0.12);
-            padding: 3px 10px;
-            border-radius: 9999px;
-            display: inline-block;
-            margin-bottom: 10px;
-        }
-        .hub-track-title {
-            color: #ffffff;
-            font-size: 1.05rem;
-            font-weight: 600;
-            margin-bottom: 8px;
-            line-height: 1.4;
-        }
         .qr-pass-container {
             background: rgba(14, 28, 66, 0.5);
             border: 1px solid rgba(56, 189, 248, 0.2);
@@ -96,6 +62,40 @@
         }
         .venue-showcase-card:hover img {
             filter: brightness(0) invert(1) drop-shadow(0 0 15px rgba(56, 189, 248, 0.5));
+        }
+        /* ── Inline Dashboard styles ── */
+        .dash-nav-pills .nav-link {
+            background: rgba(14, 28, 66, 0.45);
+            border: 1px solid rgba(56, 189, 248, 0.16);
+            border-radius: 12px;
+            color: #cbd5e1;
+            padding: 14px 20px;
+            margin-bottom: 12px;
+            font-weight: 600;
+            transition: all 0.25s ease;
+        }
+        .dash-nav-pills .nav-link:hover {
+            background: rgba(14, 28, 66, 0.7);
+            border-color: rgba(56, 189, 248, 0.35);
+            color: #ffffff;
+        }
+        .dash-nav-pills .nav-link.active {
+            background: linear-gradient(135deg, rgba(2, 132, 199, 0.4), rgba(37, 99, 235, 0.4)) !important;
+            border-color: #38bdf8 !important;
+            color: #ffffff !important;
+            box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);
+        }
+        .dash-content-card {
+            background: rgba(14, 28, 66, 0.5);
+            border: 1px solid rgba(56, 189, 248, 0.18);
+            border-radius: 18px;
+            padding: 35px;
+            backdrop-filter: blur(14px);
+            -webkit-backdrop-filter: blur(14px);
+            color: #e2e8f0;
+            font-size: 1.05rem;
+            line-height: 1.8;
+            min-height: 380px;
         }
     </style>
 </asp:Content>
@@ -156,51 +156,54 @@
         </div>
     </section>
 
-    <!-- Dedicated Live Summit Telemetry & Session Hub (Clean, No Nested Iframe) -->
-    <section id="dashboard-section" aria-label="Live Summit Hub" class="py-5">
+    <!-- Attendee Dashboard — embedded directly (no iframe) -->
+    <section id="dashboard-section" aria-label="Attendee Dashboard" class="py-5">
         <div class="container">
-            <div class="glass-card p-4 p-md-5" style="border-radius: 22px;">
-                <div class="d-flex align-items-center justify-content-between mb-4 pb-3 border-bottom border-secondary flex-wrap gap-2">
-                    <div>
-                        <span class="glass-pill glass-pill-cyan mr-2">● LIVE SUMMIT HUB</span>
-                        <span class="text-white font-weight-bold ml-2" style="font-size: 1.1rem;">RadBix AI Telemetry &amp; Session Portal</span>
-                    </div>
-                    <div>
-                        <a href="Dashboard.aspx" class="text-info font-weight-bold" style="text-decoration: none;">
-                            Open Attendee Dashboard <i class="fa fa-arrow-right ml-1"></i>
+            <!-- Section heading -->
+            <div class="text-center mb-5">
+                <span class="glass-pill glass-pill-cyan mb-3 d-inline-block">Attendee Portal</span>
+                <h2 class="text-white font-weight-bold display-5 mb-3">Dashboard</h2>
+                <div style="width: 80px; height: 3px; background: linear-gradient(90deg, #38bdf8, #2563eb); margin: 0 auto; border-radius: 2px;"></div>
+            </div>
+
+            <!-- Nav pills + tab content -->
+            <div class="row">
+                <div class="col-lg-3 col-md-4 mb-4">
+                    <div class="nav flex-column dash-nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
+                            <i class="fa fa-home mr-2"></i> Home
+                        </a>
+                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
+                            <i class="fa fa-user mr-2"></i> Profile
+                        </a>
+                        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
+                            <i class="fa fa-envelope mr-2"></i> Messages
+                        </a>
+                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
+                            <i class="fa fa-cog mr-2"></i> Settings
                         </a>
                     </div>
                 </div>
 
-                <div class="row g-3">
-                    <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">Track A</span>
-                                <h3 class="hub-track-title">Artificial Intelligence &amp; RadBix</h3>
-                                <p class="text-secondary small mb-3">Imaging AI algorithms, digital transformation, workflow automation, and cybersecurity.</p>
+                <div class="col-lg-9 col-md-8">
+                    <div class="dash-content-card">
+                        <div class="tab-content" id="v-pills-tabContent">
+                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+                                <h3 class="text-white font-weight-bold mb-3">Home Overview</h3>
+                                <p>Welcome to your summit dashboard. Access session agendas, track your registered workshops, and view live conference updates.</p>
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">Track Overview &rarr;</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">Track B</span>
-                                <h3 class="hub-track-title">Advanced Clinical Radiology</h3>
-                                <p class="text-secondary small mb-3">MRI, CT, Ultrasound, X-Ray, IVR, Nuclear Medicine, and Mammography 2026.</p>
+                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+                                <h3 class="text-white font-weight-bold mb-3">Profile Information</h3>
+                                <p>Manage your conference credentials, institutional affiliation, and specialty area in radiology and health innovation.</p>
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">Track Overview &rarr;</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">Track C</span>
-                                <h3 class="hub-track-title">Education, Quality &amp; Research</h3>
-                                <p class="text-secondary small mb-3">Publishing high-impact papers, global quality benchmarks, and innovation labs.</p>
+                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+                                <h3 class="text-white font-weight-bold mb-3">Notifications &amp; Messages</h3>
+                                <p>Review official communications, program updates, and notifications regarding your summit participation.</p>
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">Track Overview &rarr;</a>
+                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
+                                <h3 class="text-white font-weight-bold mb-3">Account Settings</h3>
+                                <p>Configure your notification preferences, privacy settings, and language choices.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
