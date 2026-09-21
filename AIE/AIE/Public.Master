@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Public.master.cs" Inherits="AIE.Public" %>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Public.master.cs" Inherits="AIE.Public" %>
 
 
 <!DOCTYPE html>
@@ -26,6 +26,7 @@
     <link href="Content/css/coloring.css" rel="stylesheet" type="text/css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" type="text/css" />
     <link href="Content/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="<%= ResolveUrl("~/Content/css/modern-dark-theme.css") %>" rel="stylesheet" type="text/css" />
 
     <link href="Content\images\logo.jpg" rel="icon" />
    <style>
@@ -199,7 +200,7 @@
                             <a href="Login"><i class=" icon_lock-open"></i>Sign in</a>
                         </span>
                         <span class="topbar-widget">
-                            <asp:LinkButton ID="BtnToAr" runat="server" CssClass="text-white droidkufiregular" OnClick="BtnToAr_Click"><i class="fa fa-language"></i> العربية</asp:LinkButton>
+                            <asp:LinkButton ID="BtnToAr" runat="server" CssClass="text-white lang-switcher-btn" OnClick="BtnToAr_Click"><i class="fa fa-language"></i> العربية</asp:LinkButton>
                         </span>
                     </div>
                     <div class="clearfix"></div>
@@ -207,7 +208,7 @@
             </div>
 
             <!-- header begin -->
-            <header class="bg-white scroll-light">
+            <header class="header-dark">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="de-flex sm-pt10">
@@ -217,32 +218,32 @@
     <!-- 1. Logo Section -->
     <div id="logo">
         <a href="~/" runat="server">
-            <img alt="Logo" class="logo" src="Content/images/background/SAIRH_logo_transparent.svg" style="width: 300px; height: 100px;" />
+            <img alt="SAIRH Logo" class="logo" src="Content/images/background/SAIRH_logo_transparent.svg" style="width: 260px; height: auto;" />
         </a>
     </div>
 
     <!-- 2. Centered Menu -->
     <ul id="mainmenu">
-        <li class="a-underline form-underline">
-            <a href="~/" runat="server" id="linkHome" class="text-dark">Home<span></span></a>
+        <li>
+            <a href="~/" runat="server" id="linkHome">Home<span></span></a>
         </li>
         <li>
-            <a href="Publication" runat="server" id="linkPublication" class="text-dark">Tracks<span></span></a>
+            <a href="Publication" runat="server" id="linkPublication">Tracks<span></span></a>
         </li>
         <li>
-            <a href="Schedules" runat="server" id="linkSchedules" class="text-dark">Exhibition<span></span></a>
+            <a href="Schedules" runat="server" id="linkSchedules">Exhibition<span></span></a>
         </li>
         <li>
-            <a href="Ceremony" runat="server" id="linkCeremony" class="text-dark">Conference Program<span></span></a>
+            <a href="Ceremony" runat="server" id="linkCeremony">Conference Program<span></span></a>
         </li>
         <li>
-            <a href="Judges" runat="server" id="linkJudges" class="text-dark">Speakers<span></span></a>
+            <a href="Judges" runat="server" id="linkJudges">Speakers<span></span></a>
         </li>
         <li>
-            <a href="Sponsors" runat="server" id="linkSponsors" class="text-dark">Sponsors<span></span></a>
+            <a href="Sponsors" runat="server" id="linkSponsors">Sponsors<span></span></a>
         </li>
         <li>
-            <a href="ContactUs" runat="server" id="linkContactUs" class="text-dark">Contact Us<span></span></a>
+            <a href="ContactUs" runat="server" id="linkContactUs">Contact Us<span></span></a>
         </li>
     </ul>
 

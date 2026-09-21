@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace AIE.Content.css {
-	public class live_dashboard {
-		html,
+html,
 		body {
 			margin: 0;
 			padding: 0;
@@ -620,7 +613,5 @@ namespace AIE.Content.css {
 			.sairh-session-slide.leave-to-previous,
 			.sairh-session-slide.leave-to-next {
 				transition: none;
-			}
 		}
-	}
-}
+

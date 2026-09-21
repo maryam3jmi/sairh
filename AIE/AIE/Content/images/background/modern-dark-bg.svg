@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Deep Obsidian Canvas Gradient -->
+    <linearGradient id="canvasGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#040816" />
+      <stop offset="35%" stop-color="#060c20" />
+      <stop offset="70%" stop-color="#030612" />
+      <stop offset="100%" stop-color="#02040b" />
+    </linearGradient>
+
+    <!-- Broad, Soft Ambient Sapphire Radiance -->
+    <radialGradient id="ambientNavyGlow" cx="50%" cy="15%" r="65%">
+      <stop offset="0%" stop-color="#1d4ed8" stop-opacity="0.32" />
+      <stop offset="30%" stop-color="#1e40af" stop-opacity="0.18" />
+      <stop offset="65%" stop-color="#0a1945" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#02040b" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Subtle Cyan Accent Glow at Top Center -->
+    <radialGradient id="cyanAccentGlow" cx="50%" cy="5%" r="35%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22" />
+      <stop offset="35%" stop-color="#0284c7" stop-opacity="0.10" />
+      <stop offset="75%" stop-color="#040816" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Soft Ambient Light Ray in Background -->
+    <linearGradient id="softRayGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="rgba(56, 189, 248, 0.08)" />
+      <stop offset="40%" stop-color="rgba(37, 99, 235, 0.04)" />
+      <stop offset="100%" stop-color="rgba(2, 4, 11, 0)" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1920" height="1080" fill="url(#canvasGrad)" />
+
+  <!-- Ambient Light Blooms -->
+  <rect width="1920" height="1080" fill="url(#ambientNavyGlow)" />
+  <rect width="1920" height="1080" fill="url(#cyanAccentGlow)" />
+
+  <!-- Subtle Elegant Center Cone -->
+  <polygon points="760,0 1160,0 1380,1080 540,1080" fill="url(#softRayGrad)" />
+
+  <!-- Very Subtle Top Horizon Glow Line -->
+  <line x1="0" y1="1" x2="1920" y2="1" stroke="rgba(56, 189, 248, 0.12)" stroke-width="1" />
+</svg>

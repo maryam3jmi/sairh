@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PublicAr.master.cs" Inherits="AIE.PublicAr" %>
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PublicAr.master.cs" Inherits="AIE.PublicAr" %>
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head runat="server">
@@ -22,6 +22,7 @@
     <link href="~/Content/css/coloring.css" rel="stylesheet" type="text/css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet" type="text/css" />
     <link href="~/Content/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/css/modern-dark-theme.css" rel="stylesheet" type="text/css" />
     <link href="../Content/images/logo.jpg" rel="icon" />
 
     <style>
@@ -186,7 +187,7 @@ ul#mainmenu.ar-menu-list li a.active::after {
                             <a href="Login" class="droidkufiregular">الدخول <i class="icon_lock-open"></i></a>
                         </span>
                         <span class="topbar-widget" runat="server" id="Span4">
-                            <asp:LinkButton ID="BtnToEn" runat="server" CssClass="text-white" OnClick="BtnToEn_Click">English <i class="fa fa-language"></i></asp:LinkButton>
+                            <asp:LinkButton ID="BtnToEn" runat="server" CssClass="text-white lang-switcher-btn" OnClick="BtnToEn_Click">English <i class="fa fa-language"></i></asp:LinkButton>
                         </span>
                     </div>
                     <div class="clearfix"></div>
@@ -194,26 +195,26 @@ ul#mainmenu.ar-menu-list li a.active::after {
             </div>
 
             <!-- Header Begin -->
-            <header class="bg-white scroll-light">
+            <header class="header-dark">
                 <div class="container-fluid px-4">
                     <div class="menu-bar-container">
                         
                         <!-- 1. Right Side Logo -->
                         <div class="menu-logo-box">
                             <a href="~/Ar_sa/" runat="server">
-                                <img alt="Logo" src="<%= ResolveUrl("~/Content/images/background/SAIRH_logo_transparent.svg") %>" />
+                                <img alt="SAIRH Logo" src="<%= ResolveUrl("~/Content/images/background/SAIRH_logo_transparent.svg") %>" style="height: 50px; width: auto;" />
                             </a>
                         </div>
 
                         <!-- 2. Centered Menu Bar -->
                         <ul id="mainmenu" class="ar-menu-list">
-                            <li><a href="~/Ar_Sa/" runat="server" id="linkHomeAr" class="droidkufiregular text-dark">الرئيسية</a></li>
-                            <li><a href="Publication" runat="server" id="linkPublicationAr" class="droidkufiregular text-dark">المسارات</a></li>
-                            <li><a href="Schedules" runat="server" id="linkSchedulesAr" class="droidkufiregular text-dark">المعرض</a></li>
-                            <li><a href="Ceremony" runat="server" id="linkCeremonyAr" class="droidkufiregular text-dark">برنامج المؤتمر</a></li>
-                            <li><a href="Judges" runat="server" id="linkJudgesAr" class="droidkufiregular text-dark">المتحدثون</a></li>
-                            <li><a href="Sponsors" runat="server" id="linkSponsorsAr" class="droidkufiregular text-dark">الرعاة</a></li>
-                            <li><a href="ContactUs" runat="server" id="linkContactUsAr" class="droidkufiregular text-dark">اتصل بنا</a></li>
+                            <li><a href="~/Ar_Sa/" runat="server" id="linkHomeAr" class="droidkufiregular">الرئيسية</a></li>
+                            <li><a href="Publication" runat="server" id="linkPublicationAr" class="droidkufiregular">المسارات</a></li>
+                            <li><a href="Schedules" runat="server" id="linkSchedulesAr" class="droidkufiregular">المعرض</a></li>
+                            <li><a href="Ceremony" runat="server" id="linkCeremonyAr" class="droidkufiregular">برنامج المؤتمر</a></li>
+                            <li><a href="Judges" runat="server" id="linkJudgesAr" class="droidkufiregular">المتحدثون</a></li>
+                            <li><a href="Sponsors" runat="server" id="linkSponsorsAr" class="droidkufiregular">الرعاة</a></li>
+                            <li><a href="ContactUs" runat="server" id="linkContactUsAr" class="droidkufiregular">اتصل بنا</a></li>
                         </ul>
 
                         <!-- 3. Left Side Balancer -->
