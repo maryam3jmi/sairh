@@ -1,0 +1,506 @@
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.runtime.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.endpoints.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.exe
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.deps.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.runtimeconfig.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.dll
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.pdb
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfoInputs.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfo.cs
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.csproj.CoreCompileInputs.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cs
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\bundle\LiveDashboard.styles.css
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\projectbundle\LiveDashboard.bundle.scp.css
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df5kp8rw85-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\mjqti2s41v-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ihghcfak7z-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\1gzfmqo465-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\algvtbtcf5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ww3fe6xlk8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bbex4t6wm7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\814gyq7ug2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ltb0pru0r0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0ot3nyl18k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u458w9uiaf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e7hyrlmfa0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq7tytxtse-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u8kd56y2jm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\lwz6c2jd1i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\dndry5kkev-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3qocelpkpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v4ul2fi61p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ivtl3jmcd2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0pmpe5r7ht-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\xotorcineq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df83c8khd1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\kdrwzju48q-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4f6kr5qsp8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\gqiwpzwgl0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\20jo48hwam-{0}-06098lyss8-06098lyss8.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hshu7fq30k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\i3r376qgnr-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\61jo3mx4nb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ioqmcriy3y-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rm1jl3tk82-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9lcq6s3h4z-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hizkkz3eyx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ha294h376u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\zeizy8vvli-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\a6lz0tikno-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v3fhyxmpwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\otu0f66jfx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\q44wtdrx28-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\52e0yaorr3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9599zanl3k-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bf2s89p1ls-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\tgph03zg6w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3u6hr22l16-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pl2g97muzx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7ue4b2b887-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rjqjaixdbi-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e898r3muaa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hydwwn9moy-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rx7h11nrcx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\6c15jqdfz6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\x9j5lh95ny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\j9o7paopz4-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\473tyt1pir-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pf1ocleg17-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pgf2tjrb8e-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4up4nn6pm2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\5d9qqegrct-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3o4kk6zn27-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7wbalc8x3n-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\vu9tq35awn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cr7ljwt6kt-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq3y7q16d1-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\oyck1dprdj-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.dll
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\refint\LiveDashboard.dll
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.pdb
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.genruntimeconfig.cache
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\ref\LiveDashboard.dll
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\data\sessions.json
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\t2td2e6kzc-{0}-88sd5q8yui-88sd5q8yui.gz
+C:\Users\hawra\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9wv7xut8rn-{0}-ojr3vw7a7x-ojr3vw7a7x.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\data\sessions.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.exe
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.deps.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\bundle\LiveDashboard.styles.css
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\projectbundle\LiveDashboard.bundle.scp.css
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df5kp8rw85-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\mjqti2s41v-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\t2td2e6kzc-{0}-88sd5q8yui-88sd5q8yui.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ihghcfak7z-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\1gzfmqo465-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\algvtbtcf5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ww3fe6xlk8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bbex4t6wm7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\814gyq7ug2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ltb0pru0r0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0ot3nyl18k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u458w9uiaf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e7hyrlmfa0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq7tytxtse-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u8kd56y2jm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\lwz6c2jd1i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\dndry5kkev-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3qocelpkpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v4ul2fi61p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ivtl3jmcd2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0pmpe5r7ht-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\xotorcineq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df83c8khd1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\kdrwzju48q-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4f6kr5qsp8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\gqiwpzwgl0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\20jo48hwam-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hshu7fq30k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\i3r376qgnr-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\61jo3mx4nb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ioqmcriy3y-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rm1jl3tk82-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9lcq6s3h4z-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hizkkz3eyx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ha294h376u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\zeizy8vvli-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\a6lz0tikno-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v3fhyxmpwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\otu0f66jfx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\q44wtdrx28-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\52e0yaorr3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9599zanl3k-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bf2s89p1ls-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\tgph03zg6w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3u6hr22l16-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pl2g97muzx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7ue4b2b887-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rjqjaixdbi-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e898r3muaa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hydwwn9moy-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rx7h11nrcx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\6c15jqdfz6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\x9j5lh95ny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\j9o7paopz4-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\473tyt1pir-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pf1ocleg17-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pgf2tjrb8e-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4up4nn6pm2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\5d9qqegrct-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3o4kk6zn27-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7wbalc8x3n-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\vu9tq35awn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cr7ljwt6kt-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9wv7xut8rn-{0}-ynxb4j9o80-ynxb4j9o80.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq3y7q16d1-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\oyck1dprdj-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\refint\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\ref\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\data\sessions.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.exe
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.deps.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\bundle\LiveDashboard.styles.css
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\projectbundle\LiveDashboard.bundle.scp.css
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9wv7xut8rn-{0}-ynxb4j9o80-ynxb4j9o80.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df5kp8rw85-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\mjqti2s41v-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\t2td2e6kzc-{0}-88sd5q8yui-88sd5q8yui.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ihghcfak7z-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\1gzfmqo465-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\algvtbtcf5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ww3fe6xlk8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bbex4t6wm7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\814gyq7ug2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ltb0pru0r0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0ot3nyl18k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u458w9uiaf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e7hyrlmfa0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq7tytxtse-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u8kd56y2jm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\lwz6c2jd1i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\dndry5kkev-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3qocelpkpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v4ul2fi61p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ivtl3jmcd2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0pmpe5r7ht-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\xotorcineq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df83c8khd1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\kdrwzju48q-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4f6kr5qsp8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\gqiwpzwgl0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\20jo48hwam-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hshu7fq30k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\i3r376qgnr-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\61jo3mx4nb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ioqmcriy3y-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rm1jl3tk82-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9lcq6s3h4z-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hizkkz3eyx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ha294h376u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\zeizy8vvli-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\a6lz0tikno-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v3fhyxmpwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\otu0f66jfx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\q44wtdrx28-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\52e0yaorr3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9599zanl3k-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bf2s89p1ls-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\tgph03zg6w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3u6hr22l16-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pl2g97muzx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7ue4b2b887-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rjqjaixdbi-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e898r3muaa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hydwwn9moy-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rx7h11nrcx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\6c15jqdfz6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\x9j5lh95ny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\j9o7paopz4-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\473tyt1pir-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pf1ocleg17-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pgf2tjrb8e-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4up4nn6pm2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\5d9qqegrct-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3o4kk6zn27-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7wbalc8x3n-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\vu9tq35awn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cr7ljwt6kt-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq3y7q16d1-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\oyck1dprdj-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\refint\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ASP project - Copy - Copy\LiveDashboard\LiveDashboard\obj\Debug\net10.0\ref\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\data\sessions.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.endpoints.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.runtime.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.exe
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.deps.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.runtimeconfig.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\bundle\LiveDashboard.styles.css
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\projectbundle\LiveDashboard.bundle.scp.css
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9wv7xut8rn-{0}-ynxb4j9o80-ynxb4j9o80.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df5kp8rw85-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\mjqti2s41v-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\t2td2e6kzc-{0}-88sd5q8yui-88sd5q8yui.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ihghcfak7z-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\1gzfmqo465-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\algvtbtcf5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ww3fe6xlk8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bbex4t6wm7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\814gyq7ug2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ltb0pru0r0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0ot3nyl18k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u458w9uiaf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e7hyrlmfa0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq7tytxtse-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u8kd56y2jm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\lwz6c2jd1i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\dndry5kkev-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3qocelpkpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v4ul2fi61p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ivtl3jmcd2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0pmpe5r7ht-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\xotorcineq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df83c8khd1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\kdrwzju48q-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4f6kr5qsp8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\gqiwpzwgl0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\20jo48hwam-{0}-06098lyss8-06098lyss8.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hshu7fq30k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\i3r376qgnr-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\61jo3mx4nb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ioqmcriy3y-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rm1jl3tk82-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9lcq6s3h4z-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hizkkz3eyx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ha294h376u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\zeizy8vvli-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\a6lz0tikno-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v3fhyxmpwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\otu0f66jfx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\q44wtdrx28-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\52e0yaorr3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9599zanl3k-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bf2s89p1ls-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\tgph03zg6w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3u6hr22l16-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pl2g97muzx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7ue4b2b887-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rjqjaixdbi-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e898r3muaa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hydwwn9moy-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rx7h11nrcx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\6c15jqdfz6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\x9j5lh95ny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\j9o7paopz4-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\473tyt1pir-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pf1ocleg17-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pgf2tjrb8e-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4up4nn6pm2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\5d9qqegrct-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3o4kk6zn27-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7wbalc8x3n-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\vu9tq35awn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cr7ljwt6kt-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq3y7q16d1-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\oyck1dprdj-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\refint\LiveDashboard.dll
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.pdb
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\العمل التطوعي\ASP project\LiveDashboard\LiveDashboard\obj\Debug\net10.0\ref\LiveDashboard.dll
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\appsettings.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\data\sessions.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.runtime.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.staticwebassets.endpoints.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.exe
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.deps.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.runtimeconfig.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.dll
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\bin\Debug\net10.0\LiveDashboard.pdb
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfoInputs.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.AssemblyInfo.cs
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.csproj.CoreCompileInputs.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.RazorAssemblyInfo.cs
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\bundle\LiveDashboard.styles.css
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\scopedcss\projectbundle\LiveDashboard.bundle.scp.css
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9wv7xut8rn-{0}-ynxb4j9o80-ynxb4j9o80.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df5kp8rw85-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\mjqti2s41v-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\t2td2e6kzc-{0}-88sd5q8yui-88sd5q8yui.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ihghcfak7z-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\1gzfmqo465-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\algvtbtcf5-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ww3fe6xlk8-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bbex4t6wm7-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\814gyq7ug2-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ltb0pru0r0-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0ot3nyl18k-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u458w9uiaf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e7hyrlmfa0-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq7tytxtse-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\u8kd56y2jm-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\lwz6c2jd1i-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\dndry5kkev-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3qocelpkpb-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v4ul2fi61p-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ivtl3jmcd2-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\0pmpe5r7ht-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\xotorcineq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\df83c8khd1-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\kdrwzju48q-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4f6kr5qsp8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\gqiwpzwgl0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\20jo48hwam-{0}-06098lyss8-06098lyss8.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hshu7fq30k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\i3r376qgnr-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\61jo3mx4nb-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ioqmcriy3y-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rm1jl3tk82-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9lcq6s3h4z-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hizkkz3eyx-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\ha294h376u-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\zeizy8vvli-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\a6lz0tikno-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\v3fhyxmpwd-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\otu0f66jfx-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\q44wtdrx28-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\52e0yaorr3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\9599zanl3k-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\bf2s89p1ls-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\tgph03zg6w-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3u6hr22l16-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pl2g97muzx-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7ue4b2b887-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rjqjaixdbi-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\e898r3muaa-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\hydwwn9moy-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\rx7h11nrcx-{0}-356vix0kms-356vix0kms.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\6c15jqdfz6-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\x9j5lh95ny-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\j9o7paopz4-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\473tyt1pir-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pf1ocleg17-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\pgf2tjrb8e-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\4up4nn6pm2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\5d9qqegrct-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\3o4kk6zn27-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\7wbalc8x3n-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\vu9tq35awn-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cr7ljwt6kt-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\cq3y7q16d1-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\compressed\oyck1dprdj-{0}-7dqoj079hn-7dqoj079hn.gz
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.dll
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\refint\LiveDashboard.dll
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.pdb
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDashboard.genruntimeconfig.cache
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\ref\LiveDashboard.dll
+C:\Users\marya\Desktop\LiveDashboard\LiveDashboard\obj\Debug\net10.0\LiveDash.9FF59946.Up2Date
