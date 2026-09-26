@@ -1,9 +1,10 @@
-﻿@model LiveDashboard.Models.LiveDashboardViewModel
+@model LiveDashboard.Models.LiveDashboardViewModel
 
 @{
     ViewData["Title"] = "Live Dashboard";
 
     var selectedLanguage = Context.Request.Query["lang"].ToString().ToLower();
+    var hideHeader = Context.Request.Query["noheader"].ToString().ToLower() == "true" || Context.Request.Query["embed"].ToString().ToLower() == "true";
     var isArabic = selectedLanguage != "en";
     var languageCode = isArabic ? "ar" : "en";
     var direction = isArabic ? "rtl" : "ltr";
@@ -17,6 +18,8 @@
         <span class="sairh-grid-glow"></span>
     </div>
 
+    @if (!hideHeader)
+    {
     <header class="sairh-widget-header">
         <a class="sairh-logo-link"
            asp-controller="Home"
@@ -50,6 +53,7 @@
             </div>
         </div>
     </header>
+    }
 
     @if (Model.Sessions.Any())
     {

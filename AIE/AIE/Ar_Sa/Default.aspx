@@ -171,53 +171,83 @@
         </div>
     </section>
 
-    <!-- Dedicated Live Summit Telemetry & Session Hub -->
-    <section id="dashboard-section" aria-label="Live Summit Hub" class="py-5">
+    <!-- Dedicated Live Summit Telemetry & Session Hub (Embedded Live Dashboard mini project, without dashboard header) -->
+    <section id="dashboard-section" aria-label="البوابة المباشرة للقمة" class="py-5">
         <div class="container">
-            <div class="glass-card p-4 p-md-5" style="border-radius: 22px;">
-                <div class="d-flex align-items-center justify-content-between mb-4 pb-3 border-bottom border-secondary flex-wrap gap-2">
-                    <div>
-                        <span class="glass-pill glass-pill-cyan ml-2">● البوابة المباشرة للقمة</span>
-                        <span class="text-white font-weight-bold mr-2" style="font-size: 1.1rem;">منظومة RadBix وجلسات المؤتمر</span>
-                    </div>
-                    <div>
-                        <a href="Dashboard.aspx" class="text-info font-weight-bold" style="text-decoration: none;">
-                            لوحة تحكم المشاركين <i class="fa fa-arrow-left mr-1"></i>
-                        </a>
-                    </div>
+            <!-- Section Title -->
+            <div class="text-center mb-4">
+                <span class="glass-pill glass-pill-cyan mb-3 d-inline-block">البوابة المباشرة للقمة</span>
+                <h2 class="text-white font-weight-bold display-5 mb-3">لوحة المتابعة الحية للمؤتمر</h2>
+                <div style="width: 80px; height: 3px; background: linear-gradient(90deg, #38bdf8, #2563eb); margin: 0 auto 20px; border-radius: 2px;"></div>
+            </div>
+
+            <!-- Live Dashboard Widget (embedded without .sairh-widget-header) -->
+            <div class="sairh-live-widget" lang="ar" dir="rtl">
+                <div class="sairh-background-pattern" aria-hidden="true">
+                    <span class="sairh-orb sairh-orb-one"></span>
+                    <span class="sairh-orb sairh-orb-two"></span>
+                    <span class="sairh-grid-glow"></span>
                 </div>
 
-                <div class="row g-3">
-                    <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">المسار A</span>
-                                <h3 class="hub-track-title">الذكاء الاصطناعي وRadBix</h3>
-                                <p class="text-secondary small mb-3">خوارزميات التصوير، والتحول الرقمي، وأتمتة سير العمل، والأمن السيبراني.</p>
+                <div class="sairh-slider">
+                    <article class="sairh-session-slide active">
+                        <aside class="sairh-speaker-panel">
+                            <div class="sairh-speaker-image-frame">
+                                <img src="<%= ResolveUrl("~/Content/images/speakers/default-speaker.png") %>" alt="صورة المتحدث" class="sairh-speaker-image" onerror="this.onerror=null; this.src='../Content/images/logo.jpg';" />
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">نظرة عامة على المسار &larr;</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4 mb-3 mb-md-0">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">المسار B</span>
-                                <h3 class="hub-track-title">الأشعة السريرية المتقدمة</h3>
-                                <p class="text-secondary small mb-3">الرنين المغناطيسي، والأشعة المقطعية، والموجات فوق الصوتية، وتصوير الثدي 2026.</p>
+                            <div class="sairh-speaker-information">
+                                <h3 class="sairh-speaker-name">د. أحمد القحطاني</h3>
+                                <p class="sairh-speaker-job">استشاري أشعة</p>
+                                <p class="sairh-speaker-organization">
+                                    <span class="sairh-organization-icon" aria-hidden="true">◇</span>
+                                    <span>جامعة الإمام عبدالرحمن بن فيصل</span>
+                                </p>
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">نظرة عامة على المسار &larr;</a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="hub-track-card">
-                            <div>
-                                <span class="hub-track-pill">المسار C</span>
-                                <h3 class="hub-track-title">التعليم والجودة والبحث</h3>
-                                <p class="text-secondary small mb-3">النشر في المجلات المرموقة، ومؤشرات الجودة العالمية، ومختبرات الابتكار.</p>
+                        </aside>
+
+                        <div class="sairh-session-panel">
+                            <div class="sairh-session-heading">
+                                <span class="sairh-year">SAIRH 2026</span>
+                                <div class="sairh-status live">
+                                    <span class="sairh-status-dot"></span>
+                                    <span class="sairh-status-text">يعرض الآن</span>
+                                </div>
                             </div>
-                            <a href="Publication" class="text-info small font-weight-bold">نظرة عامة على المسار &larr;</a>
+
+                            <h2 class="sairh-session-title">الذكاء الاصطناعي في الأشعة التشخيصية</h2>
+                            <div class="sairh-title-line"></div>
+
+                            <div class="sairh-session-details">
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-hospital"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label">القاعة</span>
+                                        <strong class="sairh-detail-value">القاعة الرئيسية</strong>
+                                    </div>
+                                </div>
+
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-clock"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label">الوقت</span>
+                                        <strong class="sairh-detail-value sairh-session-time" dir="ltr">07:00 AM – 07:45 AM</strong>
+                                    </div>
+                                </div>
+
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-hourglass-half"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label sairh-countdown-label">متبقي على نهاية الجلسة</span>
+                                        <strong class="sairh-detail-value sairh-countdown" aria-live="polite">جلسة حية</strong>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sairh-progress-track" aria-hidden="true">
+                                <div class="sairh-progress-fill" style="width: 70%;"></div>
+                            </div>
                         </div>
-                    </div>
+                    </article>
                 </div>
             </div>
         </div>

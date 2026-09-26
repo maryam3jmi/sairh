@@ -156,56 +156,83 @@
         </div>
     </section>
 
-    <!-- Attendee Dashboard — embedded directly (no iframe) -->
-    <section id="dashboard-section" aria-label="Attendee Dashboard" class="py-5">
+    <!-- Dedicated Live Summit Telemetry & Session Hub (Embedded Live Dashboard mini project, without dashboard header) -->
+    <section id="dashboard-section" aria-label="Live Summit Dashboard" class="py-5">
         <div class="container">
-            <!-- Section heading -->
-            <div class="text-center mb-5">
-                <span class="glass-pill glass-pill-cyan mb-3 d-inline-block">Attendee Portal</span>
-                <h2 class="text-white font-weight-bold display-5 mb-3">Dashboard</h2>
-                <div style="width: 80px; height: 3px; background: linear-gradient(90deg, #38bdf8, #2563eb); margin: 0 auto; border-radius: 2px;"></div>
+            <!-- Section Title -->
+            <div class="text-center mb-4">
+                <span class="glass-pill glass-pill-cyan mb-3 d-inline-block">LIVE SUMMIT TELEMETRY</span>
+                <h2 class="text-white font-weight-bold display-5 mb-3">Attendee Live Dashboard</h2>
+                <div style="width: 80px; height: 3px; background: linear-gradient(90deg, #38bdf8, #2563eb); margin: 0 auto 20px; border-radius: 2px;"></div>
             </div>
 
-            <!-- Nav pills + tab content -->
-            <div class="row">
-                <div class="col-lg-3 col-md-4 mb-4">
-                    <div class="nav flex-column dash-nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                        <a class="nav-link active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">
-                            <i class="fa fa-home mr-2"></i> Home
-                        </a>
-                        <a class="nav-link" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">
-                            <i class="fa fa-user mr-2"></i> Profile
-                        </a>
-                        <a class="nav-link" id="v-pills-messages-tab" data-toggle="pill" href="#v-pills-messages" role="tab" aria-controls="v-pills-messages" aria-selected="false">
-                            <i class="fa fa-envelope mr-2"></i> Messages
-                        </a>
-                        <a class="nav-link" id="v-pills-settings-tab" data-toggle="pill" href="#v-pills-settings" role="tab" aria-controls="v-pills-settings" aria-selected="false">
-                            <i class="fa fa-cog mr-2"></i> Settings
-                        </a>
-                    </div>
+            <!-- Live Dashboard Widget (embedded without .sairh-widget-header) -->
+            <div class="sairh-live-widget" lang="en" dir="ltr">
+                <div class="sairh-background-pattern" aria-hidden="true">
+                    <span class="sairh-orb sairh-orb-one"></span>
+                    <span class="sairh-orb sairh-orb-two"></span>
+                    <span class="sairh-grid-glow"></span>
                 </div>
 
-                <div class="col-lg-9 col-md-8">
-                    <div class="dash-content-card">
-                        <div class="tab-content" id="v-pills-tabContent">
-                            <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-                                <h3 class="text-white font-weight-bold mb-3">Home Overview</h3>
-                                <p>Welcome to your summit dashboard. Access session agendas, track your registered workshops, and view live conference updates.</p>
+                <div class="sairh-slider">
+                    <article class="sairh-session-slide active">
+                        <aside class="sairh-speaker-panel">
+                            <div class="sairh-speaker-image-frame">
+                                <img src="<%= ResolveUrl("~/Content/images/speakers/default-speaker.png") %>" alt="Speaker photo" class="sairh-speaker-image" onerror="this.onerror=null; this.src='Content/images/logo.jpg';" />
                             </div>
-                            <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-                                <h3 class="text-white font-weight-bold mb-3">Profile Information</h3>
-                                <p>Manage your conference credentials, institutional affiliation, and specialty area in radiology and health innovation.</p>
+                            <div class="sairh-speaker-information">
+                                <h3 class="sairh-speaker-name">Dr. Ahmed Al-Qahtani</h3>
+                                <p class="sairh-speaker-job">Consultant Radiologist</p>
+                                <p class="sairh-speaker-organization">
+                                    <span class="sairh-organization-icon" aria-hidden="true">◇</span>
+                                    <span>Imam Abdulrahman Bin Faisal University</span>
+                                </p>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
-                                <h3 class="text-white font-weight-bold mb-3">Notifications &amp; Messages</h3>
-                                <p>Review official communications, program updates, and notifications regarding your summit participation.</p>
+                        </aside>
+
+                        <div class="sairh-session-panel">
+                            <div class="sairh-session-heading">
+                                <span class="sairh-year">SAIRH 2026</span>
+                                <div class="sairh-status live">
+                                    <span class="sairh-status-dot"></span>
+                                    <span class="sairh-status-text">Live Now</span>
+                                </div>
                             </div>
-                            <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">
-                                <h3 class="text-white font-weight-bold mb-3">Account Settings</h3>
-                                <p>Configure your notification preferences, privacy settings, and language choices.</p>
+
+                            <h2 class="sairh-session-title">Artificial Intelligence in Diagnostic Radiology</h2>
+                            <div class="sairh-title-line"></div>
+
+                            <div class="sairh-session-details">
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-hospital"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label">Room</span>
+                                        <strong class="sairh-detail-value">Main Hall</strong>
+                                    </div>
+                                </div>
+
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-clock"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label">Time</span>
+                                        <strong class="sairh-detail-value sairh-session-time" dir="ltr">07:00 AM – 07:45 AM</strong>
+                                    </div>
+                                </div>
+
+                                <div class="sairh-detail-card">
+                                    <div class="sairh-detail-icon" aria-hidden="true"><i class="fa fa-hourglass-half"></i></div>
+                                    <div>
+                                        <span class="sairh-detail-label sairh-countdown-label">Time Remaining</span>
+                                        <strong class="sairh-detail-value sairh-countdown" aria-live="polite">Live Session</strong>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="sairh-progress-track" aria-hidden="true">
+                                <div class="sairh-progress-fill" style="width: 70%;"></div>
                             </div>
                         </div>
-                    </div>
+                    </article>
                 </div>
             </div>
         </div>
