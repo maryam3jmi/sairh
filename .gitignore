@@ -1,0 +1,27 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docuser.suo
+.vs/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V10
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+*.local.json
+appsettings.*.local.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class

@@ -1,72 +1,73 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Ar_Sa/PublicAr.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="AIE.Ar_Sa.Login" %>
+<%@ Page Title="تسجيل الدخول - القمة السعودية للذكاء الاصطناعي في الأشعة" Language="C#" MasterPageFile="~/Ar_Sa/PublicAr.Master" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="AIE.Ar_Sa.Login" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
+
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <section class="full-height relative no-top no-bottom vertical-center" data-bgimage="url('<%= ResolveUrl("~/Content/images/background/background.png") %>') top" data-stellar-background-ratio=".5">
-        <div class="overlay-gradient t50">
-            <div class="center-y relative">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5 text-light wow fadeInRight" data-wow-delay=".5s">
-                            <div class="spacer-10"></div>
-                            <div class="h1 text-light droidkufiregular">
-                                مرحباً
-                                <br />
-                                <div class="typed-strings">
-                                    <p><span class="h3 text-white droidkufiregular">القمة السعودية للذكاء الاصطناعي في الاشعة والابتكار الصحي</span></p>
-
-
-                                </div>
-                                <div class="typed"></div>
-                            </div>
-                            <p class="lead droidkufiregular">
-                               2026 
-                            </p>
-                            <div class="spacer-20"></div>
-                            <%--<a class="btn-custom" href="features.html">Learn More</a>&nbsp;
-                                <a class="btn-border" href="download.html">Download</a>--%>
-                            <div class="mb-sm-30"></div>
+    <section class="simpler-main-bg min-vh-100 d-flex align-items-center py-5" aria-label="تسجيل الدخول">
+        <div class="container py-5">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-5 text-light mb-5 mb-lg-0">
+                    <div class="d-inline-flex mb-3">
+                    </div>
+                    <div class="h1 text-light font-weight-bold mb-3">
+                        مرحباً بكم <br />
+                        <div class="typed-strings">
+                            <p><span class="h1 text-white">القمة السعودية الأولى للذكاء الاصطناعي في الأشعة والابتكار الصحي</span></p>
                         </div>
+                        <div class="typed text-info"></div>
+                    </div>
+                    <p class="lead text-secondary" style="font-size: 1.5rem; font-weight: 600;">2026</p>
+                </div>
 
-                        <div class="col-lg-4 offset-lg-2 wow fadeIn" data-wow-delay=".5s">
-                            <div class="box-rounded padding40" data-bgcolor="#ffffff">
-                                <h3 class="mb10 droidkufiregular">تسجيل الدخول</h3>
-                                <p class="droidkufiregular">تسجيل الدخول باستخدام حساب موجود أو إنشاء حساب جديد <a href="Register"><span class="text-primary">هنا</span></a>.</p>
-                                <asp:UpdatePanel ID="UpdatePanel1" runat="server">
-                                    <ContentTemplate>
-                                        <div id='contact_form' class="form-border">
+                <div class="col-lg-5 offset-lg-1">
+                    <div class="login-glass-card">
+                        <h3 class="text-white font-weight-bold mb-2 text-center">تسجيل الدخول</h3>
+                        <p class="text-secondary text-center mb-4">
+                            سجّل الدخول إلى حسابك، أو <a href="Register" class="text-info font-weight-bold">أنشئ حساباً جديداً</a>.
+                        </p>
 
-                                    <div class="field-set">
-                                        <asp:TextBox ID="TxtUserName" runat="server" CssClass="form-control droidkufiregular" placeholder="البريد الالكتروني"></asp:TextBox>
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                            <ContentTemplate>
+                                <div id="divError" class="auth-alert alert alert-danger" runat="server" visible="false" role="alert"></div>
+
+                                <div class="auth-form">
+                                    <div class="auth-field">
+                                        <label for="<%= TxtEmail.ClientID %>" class="auth-label">
+                                            <i class="bi bi-envelope ml-1 text-info"></i> البريد الإلكتروني
+                                        </label>
+                                        <asp:TextBox ID="TxtEmail" runat="server" TextMode="Email" CssClass="form-control" placeholder="name@domain.com" autocomplete="username" required="required"></asp:TextBox>
                                     </div>
 
-                                    <div class="field-set">
-                                        <asp:TextBox ID="TxtPassword" TextMode="Password" runat="server" CssClass="form-control droidkufiregular" placeholder="كلمة المرور"></asp:TextBox>
+                                    <div class="auth-field">
+                                        <div class="auth-row-between">
+                                            <label for="<%= TxtPassword.ClientID %>" class="auth-label">
+                                                <i class="bi bi-lock ml-1 text-info"></i> كلمة المرور
+                                            </label>
+                                            <a href="ForgotPassword" class="auth-link small">نسيت كلمة المرور؟</a>
+                                        </div>
+                                        <div class="auth-password">
+                                            <asp:TextBox ID="TxtPassword" runat="server" TextMode="Password" CssClass="form-control" placeholder="أدخل كلمة المرور" autocomplete="current-password" required="required"></asp:TextBox>
+                                            <button type="button" class="auth-password-toggle" data-toggle-password="<%= TxtPassword.ClientID %>" aria-label="إظهار كلمة المرور" data-label-show="إظهار كلمة المرور" data-label-hide="إخفاء كلمة المرور" aria-pressed="false">
+                                                <i class="bi bi-eye"></i>
+                                            </button>
+                                        </div>
+                                    <div class="d-flex justify-content-between align-items-center mb-3 text-right">
+                                        <div class="form-check p-0">
+                                            <asp:CheckBox ID="ChkRememberMe" runat="server" Text=" تذكرني على هذا الجهاز" CssClass="text-secondary small font-weight-semibold" />
+                                        </div>
                                     </div>
 
-                                    <div class="field-set">
-                                        <asp:LinkButton ID="BtnLogin" runat="server" CssClass="btn btn-custom btn-fullwidth color-2" OnClick="Login_Click">
-                                          <span class="droidkufiregular">تسجيل الدخول</span>  </asp:LinkButton>
+                                    <div class="mt-2">
+                                        <asp:Button ID="BtnLogin" runat="server" CssClass="cyan-glow-btn w-100 py-3 text-white font-weight-bold" Text="تسجيل الدخول" OnClick="Login_Click" data-loading-text="جارٍ تسجيل الدخول..." />
                                     </div>
 
-                                    <div class="clearfix"></div>
-
-                                    <div class="spacer-single"></div>
-                                     <div id="divError" class="error_input droidkufiregular" runat="server">Test Messages</div>
-                                    <!-- social icons -->
-                                    <%-- <ul class="list s3">
-                                        <li>Login with:</li>
-                                        <li><a href="#">Facebook</a></li>
-                                        <li><a href="#">Google</a></li>
-                                    </ul>--%>
-                                    <!-- social icons close -->
+                                    <p class="auth-switch">
+                                        ليس لديك حساب بعد؟ <a href="Register" class="text-info font-weight-bold">سجّل الآن</a>
+                                    </p>
                                 </div>
-                                    </ContentTemplate>
-                                </asp:UpdatePanel>
-                                
-                            </div>
-                        </div>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
                     </div>
                 </div>
             </div>
